@@ -1,4 +1,4 @@
-# 前端启动命令！！！
+# 本地部署的前提下：前端启动命令！！！
 - cd 832301316_高杰铭_frontend
 - python -m http.server 8000 --bind 127.0.0.1 --directory src
 
@@ -39,4 +39,5 @@
 - ........├── user-list.js # 用户列表页面脚本
 - ........├── user-detail.js # 用户详情页面脚本
 - ........├── user-edit.js # 编辑用户页面脚本
+
 - ........└── user-versions.js # 版本历史页面脚本
